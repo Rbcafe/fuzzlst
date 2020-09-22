@@ -1,0 +1,3 @@
+phpliteadmin.config.sample.php
+phpliteadmin.php
+readme.md
